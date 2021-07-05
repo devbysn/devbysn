@@ -26,15 +26,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
 
-<p align="center">
-<a href="https://www.hackerrank.com/devbysn?hr_r=1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/satya-verma-2a9308162/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/imsnverma/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/snverma/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "snverma1409@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-</p>
-
-
 
 <p align="center">
   <em>
@@ -49,13 +40,15 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His***😉 <br>
-✔ I’m currently Developing a Resource sharing system for my college<br>
-✔ I’m currently learning about **MERN Stack**🥰<br>
-✔ I’m looking to collaborate with any **Web Dev** Related projects<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
- 
+
+- 🔭 I’m currently Developing a Resource sharing system for my college
+- 🌱 I’m currently learning about **MERN Stack**
+- 👯 I’m looking to collaborate with any **Web Dev** Related projects
+- 🤔 I’m looking for a cool mentor. 🥺
+- 💬 Ask me about anything you want, if i don't know answer i'll google it for you.😉
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/satya-verma-2a9308162/" target="blank">Linkedin</a> 
+- 😄 Pronouns: ***He/His***😉
+- ⚡ Fun fact: I've lost my all social skills during Pandemic :( 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
@@ -87,3 +80,17 @@ Here are some ideas to get you started:
  <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=devbysn&theme=github)
+ <br><br><br>
+ <hr>
+ 
+ 
+ 
+<p align="center">
+  <h1>I'm social too!<h1>
+<a href="https://www.hackerrank.com/devbysn?hr_r=1" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" width="21px" /></a>
+<a href="https://www.linkedin.com/in/satya-verma-2a9308162/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" width="21px" /></a>  
+<a href="https://www.instagram.com/imsnverma/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" width="21px"/></a>
+<a href="https://www.facebook.com/snverma/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" width="21px" /></a>
+ <a href = "snverma1409@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" width="21px" /></a>
+<a href="https://twitter.com/cs_vedant"><img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" /></a>
+</p>
