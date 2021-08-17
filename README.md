@@ -41,10 +41,8 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 
-- 🔭 I’m currently Developing a Resource sharing system for my college
-- 🌱 I’m currently learning about **MERN Stack**
+- 🌱 I’m currently learning DSA and **MERN Stack**
 - 👯 I’m looking to collaborate with any **Web Dev** Related projects
-- 🤔 I’m looking for a cool mentor. 🥺
 - 💬 Ask me about anything you want, if i don't know answer i'll google it for you.😉
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/satya-verma-2a9308162/" target="blank">Linkedin</a> 
 - 😄 Pronouns: ***He/His***😉
