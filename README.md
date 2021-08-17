@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am <a href="https://devbysn.github.io/Profile//"> <b>Satya</b> Verma </a> </h1>
+<h1 align="center">Hello  <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30">, I am <a href="https://devbysn.github.io/Profile//"> <b>Satya</b> Verma </a> </h1>
 
 <h3 align="center">MERN Developer | Reader | Curious</h3>
 
